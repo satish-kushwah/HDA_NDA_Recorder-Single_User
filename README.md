@@ -1,5 +1,5 @@
 # HDA_NDA_Recorder-Single_User
-GUI app for recording HDA_NDA data of DMRC TO
+GUI app for recording HDA_NDA data of TO
 
 1. Date is auto filled, edit if required, If you are given a duty no from CC just enter duty no 
    in Duty# text box, select TimeTable from TT leave duty type to RUN, click on Fetch data buttton,
